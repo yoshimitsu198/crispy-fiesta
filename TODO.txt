@@ -3,3 +3,6 @@ Change log entry for iteration 7
 
 Update 12
 Change log entry for iteration 12
+
+Update 25
+Change log entry for iteration 25
